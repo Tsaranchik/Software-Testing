@@ -1,10 +1,12 @@
 .*
+.*/
 target/
 build/
 out/
 bin/
-chromedriver
 pom.xml
 resources/
 *.txt
 !requirements.txt
+chromedriver
+__pycache__
